@@ -1,0 +1,27 @@
+nav  {
+      margin-top:20px;
+      height: 50px;
+         border:solid 1px;
+       background-color: blue;
+    font-family:"Viner Hand ITC";
+}
+
+a{
+  color: white;
+margin:auto;
+}
+    
+div{
+     background-color: #0000ff;
+     display: block;
+     margin:auto;
+     height: 000px;
+     border: solid goldm 5px;
+	
+}
+
+#main{
+margin-top: 15px;    
+width: 50%;
+
+}
