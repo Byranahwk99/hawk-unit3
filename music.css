@@ -7,8 +7,9 @@ nav  {
 
 a{
   color: white;
-margin:auto;
+margin:auto 3px;
 font-size: 30px;
+
 }
     
 div{
@@ -16,24 +17,20 @@ div{
      display: block;
      margin:auto;
      height: 000px;
-     border: solid goldm 5px;
-     color:white;
+     border:groove black 1px;
+    color:white;
+ 
      
 }
 
 #main{
      margin-top: 15px;    
       width: 50%; 
-      background-image: url("party.jpg");
      
      }
  h1{
-    font-size:80px;
-    text-align:center;
-    font-family:Rosewood Std;
     color:blue;
-
-
+    font-size:50px;
     }
 
 
