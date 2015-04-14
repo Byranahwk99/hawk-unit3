@@ -22,8 +22,8 @@ div{
 
 #main{
  
-width: 1000px;
-height: 1000px;
+width: 900px;
+height: 800px;
 
 }
  
@@ -37,4 +37,12 @@ aside{
         width:400px;
        margin-left: 10px;
      }
-     
+  a:hover{
+           
+
+
+
+
+
+
+         }   

@@ -1,7 +1,6 @@
 nav  {
-      margin-top:20px;
-      height: 50px;
-         border:solid 1px;
+      margin-top:-7px;
+      height: 80px;
        background-color: blue;
     font-family:"Viner Hand ITC";
 }
@@ -9,6 +8,7 @@ nav  {
 a{
   color: white;
 margin:auto;
+font-size: 30px;
 }
     
 div{
@@ -17,11 +17,23 @@ div{
      margin:auto;
      height: 000px;
      border: solid goldm 5px;
-	
+     color:white;
+     
 }
 
 #main{
-margin-top: 15px;    
-width: 50%;
+     margin-top: 15px;    
+      width: 50%; 
+      background-image: url("party.jpg");
+     
+     }
+ h1{
+    font-size:80px;
+    text-align:center;
+    font-family:Rosewood Std;
+    color:blue;
 
-}
+
+    }
+
+
