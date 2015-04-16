@@ -7,13 +7,13 @@ aside{
      }
 nav  {
       margin-top:-7px;
-      height: 80px;
+      height: 70px;
        background-color: blue;
     font-family:"Viner Hand ITC";
 }
 
 a{
-  color: white;
+  color:#e3ff00;
 margin:auto 3px;
 font-size: 30px;
 
