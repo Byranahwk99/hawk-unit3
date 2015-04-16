@@ -6,9 +6,9 @@ nav  {
 }
 
 a{
-  border: solid gray 1px;
-  color: white;
-margin: 250px;
+  border: solid gray 3px;
+  color: blue;
+margin: 180px;
 text-align: left;
 font-size: 40px;
 }
@@ -46,3 +46,12 @@ aside{
 
 
          }   
+ #rainbow{
+      color:#464646;
+       font-family:Arial,Helvetica, sans-serif;
+       float:left;
+        width:400px;
+       margin-right: 100px;
+
+
+       }
